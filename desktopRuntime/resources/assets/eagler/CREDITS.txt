@@ -1,4 +1,12 @@
 
+ Obsidian Client Developers
+ ~~~~~~~~~~~~~~~~~~~~~~~
+
+ ItzzSteven
+
+  - Creator of Obsidian Client
+  - Made most of obsidian client
+
  EaglercraftX Developers
  ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -977,3 +985,4 @@
  * CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
